@@ -1,0 +1,14 @@
+.main-div {
+  font-family: "Kanit";
+  align-items: left;
+}
+.form_css {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.txt {
+  color: white;
+  margin-left: 1em;
+}
